@@ -1,0 +1,19 @@
+{
+  "name": "cordova-smtp-client",
+  "version": "1.0.0",
+  "description": "Simple pluging that sends an email with or without attachments without prompt the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albernazf/cordova-smtp-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albernazf/cordova-smtp-client/issues"
+  },
+  "homepage": "https://github.com/albernazf/cordova-smtp-client#readme"
+}
